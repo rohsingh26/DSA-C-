@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int n, i=1;
-    cout<<"Enter the number of border=";
+    cout<<"Enter the number of stars for border =";
     cin>>n;
     while(i<=n)
     {
