@@ -1,2 +1,2 @@
-# DSA-C++
-DSA Pactice Question
+# Hollow Diamond Pattern using C++
+Pattern question
